@@ -801,17 +801,1223 @@
         }
       ],
       "answer": "The clinical trial for the Comirnaty – Pfizer/BioNTech – vaccine\nshowed that it was highly effective at preventing COVID-19 in\nchildren this age."
-    },
+    }
+  ],
+  "covid Diabetes":
+  [
     {
-      "intent": "covid_vaccine_25",
+      "intent": "covid_diabetes_1",
       "questions": [
         {
-          "1": "Is the vaccine safe for children aged five to 11 years?",
-          "2": "Is the vaccine safe for kids between the ages of five and eleven?"
+          "1": "Are people with diabetes more likely to get COVID-19?",
+          "2": "Are people with diabetes more likely to get COVID-19",
+          "3": "Are Diabetes patients more likely to catch COVID-19",
+          "4": "Are diabetics more likely to develop COVID-19?",
+          "5": "Are diabetics more likely to obtain COVID-19?",
+          "6": "Diabetes patients are more prone to contract COVID-19."
         }
       ],
-      "answer": "The National Immunisation Advisory Committee recommends\nthat children aged five to 11 years old be offered this COVID-19\nvaccine."
+      "answer": "There is not enough data to show whether people with diabetes are more likely to get COVID-19 than the general population. The problem people with diabetes face is they’re more likely to have worse complications if they get it, not greater chance of getting the virus. Also, the more health conditions someone has (for example, diabetes plus heart disease), adds to their risk of getting those serious complications from COVID-19. Older people are also at higher risk of complications if they get the virus.\n\n While the death toll is rising as the virus spreads, we expect the death rate—the number of people who die from the virus—to go down as we get better at detecting and treating it."
+    },
+    {
+      "intent": "covid_diabetes_2",
+      "questions": [
+        {
+          "1": "Do people with diabetes have a higher chance of serious complications from COVID-19?",
+          "2": "Do patients with diabetes have an increased risk of significant COVID-19 complications?",
+          "3": "Do those who have diabetes have an increased risk of significant COVID-19 complications?",
+          "4": "Do patients with diabetes have an increased risk of significant COVID-19 complications?",
+          "5": "Do people with diabetes have a serious complications from COVID-19?",
+          "6": "Do patients with diabetes get serious COVID-19 complications?"
+        }
+      ],
+      "answer": "People with diabetes are more likely to have serious complications from COVID-19. In general, people with diabetes are more likely to have more severe symptoms and complications when infected with any virus.\n\n Your risk of getting very sick from COVID-19 is likely to be lower if your diabetes is well-managed. Having heart disease or other complications in addition to diabetes could worsen the chance of getting seriously ill from COVID-19, like other viral infections, because more than one condition makes it harder for your body to fight the infection.\n\n Viral infections can also increase inflammation, or internal swelling, in people with diabetes. This can also be caused by above-target blood sugars, and that inflammation could contribute to more severe complications."
+    },
+    {
+      "intent": "covid_diabetes_3",
+      "questions": [
+        {
+          "1": "Do people with diabetes have a higher chance of serious complications from COVID-19?",
+          "2": "Do patients with diabetes have an increased risk of significant COVID-19 complications?",
+          "3": "Do those who have diabetes have an increased risk of significant COVID-19 complications?",
+          "4": "Do patients with diabetes have an increased risk of significant COVID-19 complications?",
+          "5": "Do people with diabetes have a serious complications from COVID-19?",
+          "6": "Do patients with diabetes get serious COVID-19 complications?"
+        }
+      ],
+      "answer": "People with diabetes are more likely to have serious complications from COVID-19. In general, people with diabetes are more likely to have more severe symptoms and complications when infected with any virus.\n\n Your risk of getting very sick from COVID-19 is likely to be lower if your diabetes is well-managed. Having heart disease or other complications in addition to diabetes could worsen the chance of getting seriously ill from COVID-19, like other viral infections, because more than one condition makes it harder for your body to fight the infection.\n\n Viral infections can also increase inflammation, or internal swelling, in people with diabetes. This can also be caused by above-target blood sugars, and that inflammation could contribute to more severe complications."
+    },
+    {
+      "intent": "covid_diabetes_4",
+      "questions": [
+        {
+          "1": "Are the risks different for people with type 1 and type 2 diabetes?"
+        }
+      ],
+      "answer": "The CDC is continuing to update their website as new information about COVID-19 becomes available. Currently, they are reporting that people of any age with certain underlying medical conditions, including type 2 diabetes, are at increased risk of severe illness from COVID-19.\n\nBased on what the CDC is reporting at this time, people with type 1 or gestational diabetes might be at an increased risk for severe illness from COVID-19. Because COVID-19 is a new disease, we don’t know as much as we’d like to about how underlying medical conditions increase the risk for severe illness from COVID-19.\n\nIt’s important to remember that people with either type of diabetes can vary in their age, complications they’ve developed and how well they have been able to manage their diabetes. People who already have diabetes-related health problems are likely to have worse outcomes if they contract COVID-19 than people with diabetes who are otherwise healthy, whichever type of diabetes they have."
+    },
+    {
+      "intent": "covid_diabetes_5",
+      "questions": [
+        {
+          "1": "Do I need to worry about DKA (diabetic ketoacidosis)?"
+        }
+      ],
+      "answer": "When sick with a viral infection, people with diabetes do face an increased risk of diabetic ketoacidosis (DKA), commonly experienced by people with type 1 diabetes.\n\nDKA can make it challenging to manage your fluid intake and electrolyte levels—which is important in managing sepsis. Sepsis and septic shock are some of the more serious complications that some people with COVID-19 have experienced.\n\nLearn the signs of diabetic ketoacidosis (DKA) and be sure to talk with your diabetes care team about when to check for ketones and when to contact your doctor if you have them. And if you are sick, know what to do."
+    },
+    {
+      "intent": "covid_diabetes_6",
+      "questions": [
+        {
+          "1": "Does COVID-19 cause diabetes?"
+        }
+      ],
+      "answer": "Several studies have suggested that adults face an increased risk of diabetes diagnosis after contracting COVID-19. Youth younger than 18 years old with COVID-19 were shown to be at higher risk of developing diabetes more than 30 days after their COVID-19 infection."
+    },
+    {
+      "intent": "covid_diabetes_7",
+      "questions": [
+        {
+          "1": "Is COVID-19 different from the seasonal flu?"
+        }
+      ],
+      "answer": "COVID-19 is proving to be a more serious illness than seasonal flu in everyone, including people with diabetes. All of the standard precautions to avoid infection that have been widely reported are even more important when dealing with this virus.\n\nWe encourage people with diabetes to follow the guidance of the CDC to be sure you’re doing everything you can to protect yourself and others. As always, people with diabetes should get a flu shot this year, although it’s important to understand the flu vaccine will not protect against COVID-19."
+    },
+    {
+      "intent": "covid_diabetes_8",
+      "questions": [
+        {
+          "1": "What are the symptoms and warning signs I should be watching out for?"
+        }
+      ],
+      "answer": "People with COVID-19 have reported a wide range of symptoms, ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. Pay attention for potential COVID-19 symptoms including:\n\nFever or chills\nCough\nShortness of breath or difficulty breathing\nFatigue\nMuscle or body aches\nHeadache\nNew loss of taste or smell\nSore throat\nCongestion or runny nose\nNausea or vomiting\nDiarrhea"
+    },
+    {
+      "intent": "covid_diabetes_9",
+      "questions": [
+        {
+          "1": "What should I do if I think I'm developing symptoms of COVID-19?"
+        }
+      ],
+      "answer": "If you fell like you are developing symptoms, call your doctor.\n\nWhen you call:\n\nHave your glucose reading available\nHave your ketone reading available\nKeep track of your fluid consumption (you can use a 1-liter water bottle) and report\nBe clear on your symptoms (for example: are you nauseated? Just a stuffy nose?)\nAsk your questions on how to manage your diabetes"
+    },
+    {
+      "intent": "covid_diabetes_10",
+      "questions": [
+        {
+          "1": "What are the emergency warning signs—and what should I do if I’m experiencing them?"
+        }
+      ],
+      "answer": "If you develop emergency warning signs for COVID-19 get medical attention immediately. In adults, emergency warning signs include:\n\nDifficulty breathing or shortness of breath\nPersistent pain or pressure in the chest\nNew confusion\nInability to wake or stay awake\nBluish lips or face"
+    },
+    {
+      "intent": "covid_diabetes_11",
+      "questions": [
+        {
+          "1": "What should I do to prevent the spread of COVID-19 in my home?"
+        }
+      ],
+      "answer": "For people with underlying health conditions, including diabetes, healthy family members in the household should take steps as if they were a significant risk to them. For example, they should be sure to:\n\nCover their nose and mouth with a mask any time they have to leave the home.\nWash their hands frequently, especially before feeding or caring for the vulnerable person.\nStay at least 6 feet from people who don’t live in their household.\nLearn more about protecting yourself and others here.(https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)"
+    },
+    {
+      "intent": "covid_diabetes_12",
+      "questions": [
+        {
+          "1": "What should I do if someone in my household tests positive for COVID-19?"
+        }
+      ],
+      "answer": " If a member of your household is sick, be sure to give them their own room, if possible, and keep the door closed. Have only one family member care for them, and consider providing additional protections or more intensive care for household members over 65 years old or with underlying health conditions. Learn more about how to keep your home safe here.(https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf)"
+    },
+    {
+      "intent": "covid_diabetes_13",
+      "questions": [
+        {
+          "1": "Can patients self-test using blood glucose meters labeled for home use while they are in the hospital during the COVID-19 pandemic?\n\n"
+        }
+      ],
+      "answer": "Yes. The FDA recognizes that home-use blood glucose meters may be an option to provide relief and support to health care professionals in hospital settings seeking to reduce interactions between patients and health care providers, thereby limiting exposure to COVID-19, and conserving personal protective equipment (PPE), whenever possible.\n\nIn addition, some home-use blood glucose meters have built-in wireless data transmission capabilities, which can facilitate remote patient monitoring. Therefore, the FDA encourages hospitals to consider policies to allow patients to self-test using home-use blood glucose meters, which may include using patients’ own home-use blood glucose meters or providing a home-use blood glucose meter when patients are admitted to the hospital. Using strategies where patients in the hospital may check their own blood glucose, while allowing wireless access to results by health care professionals, may limit the direct contact and reduce risk of passing on the virus preserve PPE."
+    },
+    {
+      "intent": "covid_diabetes_14",
+      "questions": [
+        {
+          "1": "What are the factors that health care providers caring for a COVID-19 patient can consider before allowing patients to self-test using a home-use blood glucose meter?\n\n"
+        }
+      ],
+      "answer": "In considering whether patients should to check their own blood glucose using home-use blood glucose meter, health care providers caring for COVID-19 patients will take into consideration the availability of other equipment in their hospitals to get timely and accurate blood glucose readings that can be easily transferred or logged into the patient’s medical record. Health care providers will also take into consideration whether the patient is well enough to properly conduct their own self testing and is comfortable with using a new type of home-use blood glucose meter, if one was provided by the hospital. While a patient may be used to getting blood glucose readings using their own meter, they may not be as successful using an unfamiliar model."
+    },
+    {
+      "intent": "covid_diabetes_15",
+      "questions": [
+        {
+          "1": "Can COVID-19 patients with diabetes bring their own blood glucose monitors to the hospital if they need to be hospitalized?\n\n"
+        }
+      ],
+      "answer": "Yes. Self-management of diabetes by a patient using their own devices, even in a hospital setting, is consistent with device labeling."
+    },
+     {
+      "intent": "covid_diabetes_16",
+      "questions": [
+        {
+          "1": "If a hospital chooses to dispense home-use blood glucose meters to in-patients, can that meter be used for multiple patients?"
+        }
+      ],
+      "answer": "No. All blood glucose meters labeled “for single patient use only,” whether provided by the hospital to a patient or brought into a hospital by a patient, may only be used by the patient. Blood glucose meters labeled “for single patient use only” may not be shared among multiple patients. This limitation is necessary to prevent transmission of infection between individuals as these types of glucose meters are not robust enough to withstand the cleaning and disinfection that would be needed to for more than one patient to use them. Any home-use blood glucose meter given to a patient should either be taken home by that patient or disposed of when the patient is discharged from the hospital."
+     },
+    {
+      "intent": "covid_diabetes_17",
+      "questions": [
+        {
+          "1": "Should I stop taking certain blood pressure medications because I’ve heard that these drugs may affect my risk of COVID-19 infection?"
+        }
+      ],
+      "answer": "Blood pressure control is an essential part of managing (hypertension, heart and kidney diseases and) diabetes. In addition, certain blood pressure lowering medications [(a class of medications known as angiotensin converting enzyme inhibitors (ACE-i) or Angiotensin Receptor Blockers (ARBs)] are often recommended for people living with diabetes to protect them from kidney and heart-related complications, even in the absence of high blood pressure.\n\nAt the present time, there is no confirmed scientific link between these blood pressure medications and the risk of COVID-19 infection or its complications. Please do NOT stop or change any of your medications without discussing with your healthcare team."
+    },
+    {
+      "intent": "covid_diabetes_18",
+      "questions": [
+        {
+          "1": "Should I stop taking certain blood pressure medications because I’ve heard that these drugs may affect my risk of COVID-19 infection?"
+        }
+      ],
+      "answer": "Blood pressure control is an essential part of managing (hypertension, heart and kidney diseases and) diabetes. In addition, certain blood pressure lowering medications [(a class of medications known as angiotensin converting enzyme inhibitors (ACE-i) or Angiotensin Receptor Blockers (ARBs)] are often recommended for people living with diabetes to protect them from kidney and heart-related complications, even in the absence of high blood pressure.\n\nAt the present time, there is no confirmed scientific link between these blood pressure medications and the risk of COVID-19 infection or its complications. Please do NOT stop or change any of your medications without discussing with your healthcare team."
+    },
+    {
+      "intent": "covid_diabetes_19",
+      "questions": [
+        {
+          "1": "How coronavirus can affect people with diabetes"
+        }
+      ],
+      "answer": "Coronaviruses can cause more severe symptoms and complications in people with diabetes, as well as in older people and those with other long-term conditions, such as cancer or chronic lung disease.  \n \nEveryone with diabetes, including those with type 1 and type 2, is more at risk of severe complications if they get coronavirus, but the way it affects you can vary depending on what type of diabetes you have.\n \nYou’re more at risk of having serious blood sugar highs and lows, as well as longer-term problems with your eyes, feet and other areas of your body.\n \nFor most people, coronavirus is a mild illness, but some people develop a more serious form of the virus, and could die.\n \nIt is important that people with diabetes follow the sick day rules should they become ill from any illness. If you routinely check your blood sugar at home, you'll probably need to do it more often – at least every four hours, including during the night.\n \nIf your blood sugar is persistently high or low, or if you have symptoms of a hyper (hyperglycaemia) contact your GP practice or diabetes team by phone who will help you if you have any queries or if you are unsure about what to do regarding your diabetes."
+    },
+    {
+      "intent": "covid_diabetes_20",
+      "questions": [
+        {
+          "1": "Are the risks similar for people with type 1 and type 2 diabetes?"
+        }
+      ],
+      "answer": "In general, the American Diabetes Association does not know of any reason to think COVID-19 will pose a difference in risk between type 1 and type 2 diabetes. More important is that people with either type of diabetes vary in their age, complications and how well they have been managing their diabetes.\n\nPeople who already have diabetes-related health problems are likely to have worse outcomes if they contract COVID-19 than people with diabetes who are otherwise healthy, whichever type of diabetes they have."
+    },
+    {
+      "intent": "covid_diabetes_21",
+      "questions": [
+        {
+          "1": "Are the risks similar for people with type 1 and type 2 diabetes?"
+        }
+      ],
+      "answer": "In general, the American Diabetes Association does not know of any reason to think COVID-19 will pose a difference in risk between type 1 and type 2 diabetes. More important is that people with either type of diabetes vary in their age, complications and how well they have been managing their diabetes.\n\nPeople who already have diabetes-related health problems are likely to have worse outcomes if they contract COVID-19 than people with diabetes who are otherwise healthy, whichever type of diabetes they have."
     }
 
+  ],
+  "covid Kidney Disease":
+  [
+    {
+      "intent": "covid_kidney_1",
+      "questions": [
+        {
+          "1": "Is the COVID-19 vaccine safe for me?"
+        }
+      ],
+      "answer": "If you have kidney disease or are on dialysis\n\nThere is no information about the safety of the vaccine specific to people with kidney disease or who are on dialysis. However, the vaccine clinical trials included participants who have other health problems, such as diabetes, high blood pressure, heart disease, liver disease, lung disease, asthma and HIV. The results of the clinical trials showed that the vaccine is safe for people who have these health problems. Talk with your doctor to know if the COVID-19 vaccine is safe for you.\n\nIf you have a kidney transplant\n\nThe COVID-19 vaccine clinical trials did not get enough data on the safety of the vaccines for people who take immunosuppressive drugs, such as kidney transplant recipients. However, vaccines that do not include a living virus, like the COVID-19 vaccine, are generally safe. The Pfizer and Moderna vaccines do not include a living virus, so they are expected to be safe for transplant recipients.\n\nIf you have a transplant, ask your nephrologist (kidney doctor) if the COVID-19 vaccine is safe for you."
+    },
+    {
+      "intent": "covid_kidney_2",
+      "questions": [
+        {
+          "1": "Are people with Chronic Kidney Disease at higher risk of complications?"
+        }
+      ],
+      "answer": "Since COVID-19 is a new disease, there is limited information regarding risk factors for severe illness. Clinical expertise suggests that older adults and anyone with serious underlying medical conditions might be at higher risk for severe illness from COVID-19. This includes people living with kidney disease or end stage renal disease and on dialysis.\n\n"
+    },
+    {
+      "intent": "covid_kidney_3",
+      "questions": [
+        {
+          "1": "How can people living with CKD prepare for COVID-19?"
+        }
+      ],
+      "answer": "People living with kidney disease can limit his or her exposure to COVID-19 by taking recommended health precautions:\n\nOnly go out for essential errands\nThe best way to stay safe is to avoid close contact with people who are sick or carrying COVID-19. Luckily, many businesses are making it easy to stay home by offering delivery services or contact-free pickup for groceries and prescriptions. If you must go out for dialysis or care team appointments, practice social distancing by staying at least 6 feet away from other people.\nWash your hands often\nWash your hands for at least 40–60 seconds with soap and warm water, especially if you’ve been in a public place, or after blowing your nose, coughing, or sneezing. If soap isn’t available, use a hand sanitizer that’s at least 60% alcohol and cover all surfaces of your hands.\nStock up on medications, food, and supplies\nTo ensure you have everything you need to stay safe at home, prepare to have enough medications, kidney-friendly food, and medical supplies to last 2–4 weeks. If you can’t have these items delivered, you can also ask a friend or family member to help you get the things you need.\nReach out for support when you need it\nCOVID-19 is still very new and we’re all learning how to cope with the way it impacts our daily lives. If you are experiencing COVID-related stress or need help at any time, please reach out to your social worker or another care team member to get the support you need."
+    },
+    {
+      "intent": "covid_kidney_4",
+      "questions": [
+        {
+          "1": "Should I continue my dialysis treatment and care team appointments?"
+        }
+      ],
+      "answer": "Yes. While dialysis and care team appointments may look a little different during this time, it’s important that you continue your treatment as directed by your doctor or care team."
+    },
+    {
+      "intent": "covid_kidney_5",
+      "questions": [
+        {
+          "1": "Does the COVID-19 vaccine affect the kidneys?"
+        }
+      ],
+      "answer": "There is no evidence to suggest the COVID-19 vaccine will directly affect your kidneys. The COVID-19 vaccine trains your immune system to fight against any future COVID-19 infection. Vaccines train your immune system to fight disease."
+    },
+    {
+      "intent": "covid_kidney_6",
+      "questions": [
+        {
+          "1": "Should rare kidney disease patients get the COVID-19 vaccine?"
+        }
+      ],
+      "answer": "If you have chronic kidney disease at any stage or have received an organ transplant, you are at an increased risk for complications from the COVID-19 virus. As with any vaccine, you have the choice to receive the COVID-19 vaccine. We strongly encourage you to have a conversation with your doctor to decide if the vaccine is right for you and your condition."
+    },
+    {
+      "intent": "covid_kidney_7",
+      "questions": [
+        {
+          "1": "Will the COVID-19 vaccine trigger relapse in Nephrotic Syndrome and other protein-spilling disease patients?"
+        }
+      ],
+      "answer": "This is unknown. Just like other vaccines, the COVID-19 vaccine creates an immune response which has the possibility of triggering a relapse. As more protein-spilling kidney disease patients get vaccinated, data will reveal the effects of the vaccine. However, we encourage you to talk to your doctor to see if the benefit of the vaccine outweighs the potential for a relapse. While the causes of Nephrotic Syndrome relapses are sometimes hard to trace, it is recommended that after you get the COVID-19 vaccine, you monitor any symptoms and regularly check your urine protein with dipsticks for several days afterward. It is important for anyone, regardless of whether you get the COVID-19 vaccine or not, to maintain frequent hand washing, wear a mask, practice social distancing, and avoid large crowds. We strongly encourage you to talk to your doctor about whether getting the vaccine is right for you and your condition."
+    },
+    {
+      "intent": "covid_kidney_8",
+      "questions": [
+        {
+          "1": "Can Nephrotic Syndrome patients who are immunocompromised and other protein-spilling kidney disease patients generate enough antibodies from the COVID-19 vaccine?"
+        }
+      ],
+      "answer": "Further studies are needed to determine the degree of protective immunity provided by the COVID-19 vaccine for kidney patients with weakened or suppressed immune systems. Some patients whose immune systems are weakened or compromised may have a decreased response to the vaccine based on a person’s decreased adaptive immune cells. Talk to your doctor to see if the COVID-19 vaccine is right for you and how your medications may affect your body’s response to the vaccine."
+    },
+    {
+      "intent": "covid_kidney_9",
+      "questions": [
+        {
+          "1": "Do the immunosuppressant drugs many Nephrotic Syndrome and other protein-spilling disease patients take affect how the vaccine works?"}
+      ],
+      "answer": "Further studies are needed to determine the degree of protective immunity provided by the COVID-19 vaccine for kidney patients who take immunosuppressant drugs and who have weakened or suppressed immune systems. Talk to your doctor if the COVID-19 vaccine is right for you and how your medications may affect your body’s response to the vaccine."
+    },
+    {
+      "intent": "covid_kidney_10",
+      "questions": [
+        {
+          "1": "Will the COVID-19 vaccine interfere with the treatments and medications I take for my kidney disease?"}
+      ],
+      "answer": "Generally, vaccines do not have interactions with medications. However, many kidney disease patients are taking immunosuppressants, which cause your body to have a weakened or suppressed immune system. It is best to discuss the COVID-19 vaccine and all of your medications, including over the counter and herbal supplements, with your doctor to determine what is best for you"
+    },
+    {
+      "intent": "covid_kidney_11",
+      "questions": [
+        {
+          "1": "Should family members of kidney patients and transplant patients wait to get vaccinated?\n?"}
+      ],
+      "answer": "People with underlying medical conditions, such as kidney disease, are likely to be given access to the vaccine prior to healthy individuals. Family members who get the vaccine will help protect the medically vulnerable people (people who have weakened or suppressed immune systems and transplant patients) in the household. We encourage you to have a discussion with your doctor about the COVID-19 vaccine and if it is right for you and/or your family.\n\n"
+    },
+    {
+      "intent": "covid_kidney_12",
+      "questions": [
+        {
+          "1": "Should family members of kidney patients and transplant patients wait to get vaccinated?\n?"}
+      ],
+      "answer": "At this time, the mRNA vaccines are believed to be the safest for transplant populations, whose anti-rejection drugs can cause them to have weakened or suppressed immune systems. While neither of the mRNA vaccines were tested in transplant candidates or recipients in their initial Phase 3 trials, researchers are now studying how the immune system reacts to the vaccine in transplanted patients, including how long antibodies last after vaccination. You should talk to your doctor about getting the COVID-19 vaccine for further guidance. "
+    },
+     {
+      "intent": "covid_kidney_13",
+      "questions": [
+        {
+          "1": "Should people with End Stage Kidney Disease (ESKD)—i.e., whose kidneys have failed—get the vaccine?"}
+      ],
+      "answer": "Chronic kidney disease, regardless of stage, is considered a high-risk medical condition. People with this diagnosis will have priority access to getting the vaccine before healthy individuals of the same age. Please talk to your doctor about whether the COVID-19 vaccine is right for you."
+     },
+    {
+      "intent": "covid_kidney_14",
+      "questions": [
+        {
+          "1": "Should patients on the transplant list get the vaccine before they receive a transplant? Will my transplant get postponed if I get the COVID-19 vaccine and then get called for my surgery?"}
+      ],
+      "answer": "In general, patients who are vaccinated pre-transplant may have reduced protection from the vaccine post-transplant, particularly if therapies that reduce B-lymphocyte function (ex: Rituximab) are utilized. However, the majority of transplant programs require transplant candidates to be fully immunized while awaiting transplant, especially since live virus vaccines such as MMR and Chicken Pox vaccine are contraindicated after transplant. You should discuss your options for getting a COVID-19 vaccine with your doctor. "
+    }
+  ],
+   "covid immunodeficiency":
+  [
+    {
+      "intent": "covid_immunodeficiency_1",
+      "questions": [
+        {
+          "1": "Are COVID-19 vaccines safe for people with immunodeficiencies?"}
+      ],
+      "answer": "Yes. COVID-19 vaccines that are approved for use in Australia and New Zealand are safe for people with\nprimary or secondary immunodeficiencies.\nPeople with certain pre-existing medical conditions have been identified as priority groups for COVID-19\nvaccines. This includes people with immunodeficiencies, who are immunocompromised and are therefore at\ngreater risk of any infections.\nPeople with immunodeficiencies should follow the usual advice from their clinical immunology/allergy specialist\nregarding vaccinations or ask for specific advice regarding the COVID-19 vaccine."
+    },
+    {
+      "intent": "covid_immunodeficiency_2",
+      "questions": [
+        {
+          "1": " Do immunodeficiency treatments need to be stopped to have a COVID-19 vaccine? "}
+      ],
+      "answer": "It is important that regular treatments for immunodeficiencies are continued, because stopping these\ntreatments can place people with these conditions at greater risk from COVID-19.\nVaccination should occur on a different day (if possible) from regular infusion treatments, such as\nimmunoglobulin (Ig) or immunosuppressant infusions.\nFor example, people on monthly intravenous immunoglobulin (IVIg) may be advised by their specialist to be\nvaccinated two weeks after an IVIg infusion.\nThis avoids confusion about the cause of side effects or allergic reactions, if they occur in response to the\nCOVID-19 vaccine or the infusion treatment.\nPeople on regular treatments should talk to their specialist about the best time to have a COVID-19 vaccine."
+    },
+    {
+      "intent": "covid_immunodeficiency_3",
+      "questions": [
+        {
+          "1": "What precautions should people with immunodeficiencies take?"}
+      ],
+      "answer": "Most people with immunodeficiencies are considered to be at greater risk of any infections.\nPrecautions they take to prevent infections are consistent with the actions listed below, and they should follow\nthe usual advice from their physician.\nPeople with severe immunodeficiency, including those undergoing bone marrow (haematopoietic stem cell\ntransplant [HSCT]) are at high risk from all infections. They will already be aware of the need to avoid\ninfections, (including actions listed below) and what to do if they are unwell or come in contact with any\ninfectious disease.\nPeople with immunodeficiencies who receive monthly immunoglobulin replacement therapy infusions in\nhospitals still need to receive their treatment. Hospital infection control policies are in place with extra\nprecautions to isolate patients with, or at risk of getting COVID-19. If an infection is suspected at the time of\ninfusion, promptly contact the treating team for advice. "
+    },
+    {
+      "intent": "covid_immunodeficiency_4",
+      "questions": [
+        {
+          "1": "Are people with immunodeficiency more likely to catch COVID-19?"}
+      ],
+      "answer": "No the risks are the same as for the general population."
+    },
+    {
+      "intent": "covid_immunodeficiency_5",
+      "questions": [
+        {
+          "1": "I am in the highly vulnerable group. If I get COVID-19, am I more likely to have trouble in recovering?"}
+      ],
+      "answer": "If you are highly vulnerable then you are thought to be at risk of more severe disease, so avoidance of getting COVID-19 is the key. This is why shielding is so important."
+    },
+    {
+      "intent": "covid_immunodeficiency_6",
+      "questions": [
+        {
+          "1": "The worst COVID-19 cases seem to be when the immune system goes into override.  Would immunodeficient patients produce the same response? "}
+      ],
+      "answer": "Immune deficiency is a misnomer much of the time.  Most of the inborn errors of immunity including COVID are disorders of immune regulation and many are associated with hyper inflammation outside of COVID.  Some patients with primary immunodeficiency (PID) may experience severe COVID because they cannot clear the virus, whilst others may have inflammatory complications.  Hyperinflammation is seen in people with previously “normal” immune systems so it would not be surprising to see this also in a subset of patients with primary immunodeficiency (PID) as a consequence of COVID-19 infection.\n\n"
+    },
+    {
+      "intent": "covid_immunodeficiency_7",
+      "questions": [
+        {
+          "1": "Which of the COVID vaccines is best for people with primary and secondary immunodeficiency?"}
+      ],
+      "answer": "Both the Pfizer/BioNTech and Oxford-AstraZeneca coronavirus vaccine in clinical trials, have been found to be safe and offer good protection. However, we do not yet know how effective these vaccines might be for people with immunodeficiency.  "
+    },
+    {
+      "intent": "covid_immunodeficiency_8",
+      "questions": [
+        {
+          "1": "Can I do what I want after I have been vaccinated?"}
+      ],
+      "answer": "It is essential that everyone continues to stay at home whether they have had the vaccine or not.  We do not know how much protection people with certain types of immunodeficiency will have so it's absolutely essential that you continue to follow any shielding guidance you may have been given. It's tough but really important.  Continue to follow social distancing guidance; wear a face covering and remember hands, face, space and cut down on your interactions with other people. "
+    },
+    {
+      "intent": "covid_immunodeficiency_9",
+      "questions": [
+        {
+          "1": "Have any of the vaccine trials involved people with immunodeficiency?"}
+      ],
+      "answer": "We do not know precisely the mix of people who have taken part in the clinical trials but patients who are immunocompromised would not be eligible to take part in a vaccine trial in the way that they are conventionally set up."
+    },
+    {
+      "intent": "covid_immunodeficiency_10",
+      "questions": [
+        {
+          "1": "Is there any evidence about the effectiveness of the RNA vaccines for PID patients?"}
+      ],
+      "answer": "In short, no, because immunocompromised patients haven't been enrolled in the trials.  Our experience to date of patients with antibody deficiency and COVID-19 infection suggests that the antibody response is at least as important as T-cell responses for clearing this virus. The pre-clinical vaccine trial data suggests that antibody is essential for preventing primary infection. There will be more research data available about this over the coming months. The preliminary data indicates, therefore, some people with certain types of PID may not respond to the vaccination to get reliable protection."
+    },
+    {
+      "intent": "covid_immunodeficiency_11",
+      "questions": [
+        {
+          "1": "What wider benefits will a COVID vaccination programme have for the immunodeficiency community?"}
+      ],
+      "answer": "Wider benefits include the likely development of robust herd immunity, protecting immunodeficiency patients by reducing the amount of virus circulating in the community.  It will also mean reliable antibody levels in plasma donors and this will be reflected in replacement IVIG/SCIG therapies after about 6 months or so after the vaccine is widely taken up. "
+    },
+    {
+      "intent": "covid_immunodeficiency_12",
+      "questions": [
+        {
+          "1": "Can family members living with people who are affeced by immunodeficiency get vaccination?"}
+      ],
+      "answer": "The Joint Committee on Vaccination and Immunisation (JCVI) has advised the government to prioritise people for the coronavirus (COVID-19) vaccine who are over 16 and living with adults who have weakened immune systems, such as those with blood cancer, HIV or those on immunosuppressive treatment including chemotherapy."
+    }
+  ],
+  "covid cancer":
+  [
+     {
+      "intent": "covid_cancer_1",
+      "questions": [
+        {
+          "1": "Is it safe to get the COVID-19 vaccine while receiving cancer treatment?"}
+      ],
+      "answer": "Yes. The majority of people receiving cancer treatment can have the COVID-19 vaccine.\nOnly patients with a history of serious allergic reaction (anaphylaxis) to a COVID-19 vaccine\nor any of its ingredients should not receive the COVID-19 vaccine.\nIf you have a low platelet count or you are currently fighting a severe infection, your\nhealthcare team may advise you when the best time to receive the vaccine is."
+     },
+    {
+      "intent": "covid_cancer_2",
+      "questions": [
+        {
+          "1": "Are there any contraindications with the COVID-19 vaccine?"}
+      ],
+      "answer": "Patients with a history of serious allergic reaction (anaphylaxis) to a COVID-19 vaccine or any\nof its ingredients should not receive the COVID-19 vaccine. The Pfizer/BioNTech and\nModerna vaccines do not contain any latex, animal products or egg proteins and are not\ncontraindicated in egg allergy"
+    },
+    {
+      "intent": "covid_cancer_3",
+      "questions": [
+        {
+          "1": "I am due for cancer surgery soon. Should I get the COVID-19 vaccine?"}
+      ],
+      "answer": "Yes. It is recommended that you get the COVID-19 vaccine as soon as possible. It is advisable\nto discuss the timing of vaccination with your surgeon."
+    },
+    {
+      "intent": "covid_cancer_4",
+      "questions": [
+        {
+          "1": "Will the COVID-19 vaccine give me COVID-19?"}
+      ],
+      "answer": "No. The COVID-19 vaccine doesn't contain live COVID-19 virus so it can’t give you COVID-19."
+    },
+    {
+      "intent": "covid_cancer_5",
+      "questions": [
+        {
+          "1": "Are COVID-19 vaccines as effective in patients with cancer?"}
+      ],
+      "answer": "The effectiveness of the vaccine may be lower in those who are\nimmunocompromised, including some people with cancer. The level of immunity generated\nby the vaccine in patients with cancer may be affected by a range of factors. These include\nthe type of cancer, the type of anticancer treatment, whether you were on treatment at the\ntime you got the vaccine, how healthy your immune system is otherwise and your general\nlevel of fitness.\nAn additional dose has therefore been recommended for people who were\nimmunocompromised at the time of their initial COVID-19 vaccine course1\n. Some studies\nhave demonstrated that immunocompromised patients had a lower antibody response to\nvaccination, which improved with an additional vaccine dose."
+    },
+    {
+      "intent": "covid_cancer_6",
+      "questions": [
+        {
+          "1": "Will I need an additional dose of a COVID-19 vaccine?"}
+      ],
+      "answer": "You are likely to be invited for an additional dose if any of the following apply to you: \n • you were treated with chemotherapy, targeted therapy, monoclonal\nantibodies or immunotherapies in the past 12 months\n• you are being treated for a blood cancer, or your type of blood cancer may have\naffected your response to the vaccine\n• you have advanced or metastatic cancer\n• you are listed for a haematopoietic stem cell transplant (HSCT), underwent a HSCT in\nthe past 12 months, or are on immunosuppressant therapy for Graft-versus-Host\ndisease\n• you were treated with radiotherapy since March 2021\nIf you have had COVID-19 since your last dose of COVID-19 vaccine, then your additional\ndose should be delayed for 3 months after you got sick."
+    },
+    {
+      "intent": "covid_cancer_7",
+      "questions": [
+        {
+          "1": "Will I need to get a booster vaccine dose if I had an additional dose?"}
+      ],
+      "answer": "Yes, a booster dose is recommended for all people over 16 years of age including those who\nneeded an additional dose."
+    },
+    {
+      "intent": "covid_cancer_8",
+      "questions": [
+        {
+          "1": ". Are COVID-19 vaccines effective against different variants such as the delta and\nomicron variant?"}
+      ],
+      "answer": "Current evidence suggests that COVID-19 vaccines are effective against known variants."
+    },
+    {
+      "intent": "covid_cancer_9",
+      "questions": [
+        {
+          "1": "How long does the protection last?"}
+      ],
+      "answer": "We do not yet know how long the vaccines will give immunity from COVID-19. It is\nimportant to note that some people who receive the vaccine, (e.g. people who are\nimmunosuppressed due to an underlying disease or treatment, including some types of\ncancer or cancer treatments) may not mount an adequate immune response to the vaccine."
+    },
+    {
+      "intent": "covid_cancer_10",
+      "questions": [
+        {
+          "1": " Is there a higher risk of side effects\nfor people who are having chemotherapy or radiotherapy?"}
+      ],
+      "answer": "Most of the known side effects of the COVID-19 vaccine are mild to moderate and usually\nresolve within a few days after vaccination. There have not been any reports of higher\nincidence of side effects in patients with cancer"
+    },
+    {
+      "intent": "covid_cancer_11",
+      "questions": [
+        {
+          "1": "Will the COVID-19 vaccine stop me getting COVID-19? "}
+      ],
+      "answer": "Vaccinated people may still get COVID-19, but they are unlikely to get severe illness from\nCOVID-19. Getting the vaccine is an important way to help protect yourself from COVID-19.\nIt is also important to continue to follow the general public health advice to help prevent\nCOVID-19, including physical distancing, cough etiquette, wearing face coverings and regular\nhandwashing. The level of protection that you get from the COVID-19 vaccine may vary due\nto your cancer treatment and your type of cancer.\nYour healthcare team will discuss this with you. Some cancers and some cancer treatments\ncan affect the immune system in different ways. It is possible the vaccine might be less\neffective for people who have a weakened immune system. "
+    },
+    {
+      "intent": "covid_cancer_12",
+      "questions": [
+        {
+          "1": "Should my family have the COVID-19 vaccine? "}
+      ],
+      "answer": "Yes. Anyone else that lives with you and who is eligible for the vaccine should have the\nCOVID-19 vaccine as soon as it is offered to them in order to protect you and to protect\nthem. Carers who come in from outside your home to look after you should also get the\nCOVID-19 vaccine. "
+    },
+    {
+      "intent": "covid_cancer_13",
+      "questions": [
+        {
+          "1": "I already had COVID-19, so do I need to get the vaccine?"}
+      ],
+      "answer": "Yes. Patients who have already had COVID-19 should still receive the vaccine. Re-infection\nwith COVID-19 is possible so it is important to be vaccinated to reduce the risk. If you do get\nCOVID-19 again, the vaccine can reduce the seriousness of your symptoms. Patients should\nwait until they have fully recovered from COVID-19 before getting vaccinated. "
+    },
+    {
+      "intent": "covid_cancer_14",
+      "questions": [
+        {
+          "1": "Can patients with cancer on clinical trials receive the COVID-19 vaccine?"}
+      ],
+      "answer":"Yes, patients should avail of the COVID-19 vaccine as soon as it is offered to them. Your\nhealthcare team will advise on the timing of vaccination in relation to the clinical trial."
+    },
+    {
+      "intent": "covid_cancer_15",
+      "questions": [
+        {
+          "1": ". I had an antibody test after I completed my vaccine course and it showed a low\nantibody level, does this mean I need an additional vaccine dose?"}
+      ],
+      "answer":"No. Those who are recommended to receive an additional dose are identified based on\nclinical diagnosis or treatment history, rather than antibody test results. There is no agreed\nor recommended antibody level above which indicates a person is protected."
+    },
+    {
+      "intent": "covid_cancer_16",
+      "questions": [
+        {
+          "1": "1. I have been recommended to get an additional dose of vaccine but am\nunable to receive an mRNA vaccine due to a contraindication. What vaccine is\nrecommended for me?"}
+      ],
+      "answer":"An additional dose of a different type of vaccine (Vaxzevria® (Astrazeneca) or COVID-19\nVaccine Janssen®) can be considered for those with a contraindication or precaution to an\nmRNA vaccine."
+    },
+    {
+      "intent": "covid_cancer_17",
+      "questions": [
+        {
+          "1": "Can I get other vaccines at the same time as the additional COVID-19 vaccine?"}
+      ],
+      "answer":"Yes. The additional dose may be given at the same time or at any interval before or after\nseasonal influenza vaccine (or any other vaccines). If the additional dose is given at the same\ntime as another vaccine, the vaccines should be given in different arms."
+    },
+   {
+    "intent": "covid_cancer_18",
+    "questions": [
+      {
+        "1": "My child has cancer and has been vaccinated, are children with cancer to receive an\nadditional vaccine dose? "}
+    ],
+    "answer":"The recommendation from NIAC is that an additional mRNA vaccine dose should be given to\nthose aged 5 and older with immunocompromise associated with a reduced response to\nvaccines who have completed their primary course. Your child’s healthcare team will advise\nyou on whether an additional dose is recommended. "
+   }
+  ],
+   "covid lung disease":
+  [
+    {
+    "intent": "covid_lung_disease_1",
+    "questions": [
+      {
+        "1": "Do patients with lung disease have covid complications?"}
+    ],
+    "answer":"Having a chronic lung disease means that you can be more likely to get severely ill and have complications from COVID-19. "
+    },
+    {
+    "intent": "covid_lung_disease_2",
+    "questions": [
+      {
+        "1": "Should I get vaccinated if I have lung disease? "}
+    ],
+    "answer":"When a COVID-19 vaccine is available to you, we encourage you to utilize this safe and effective tool to prevent severe illness from occurring. Don’t forget your flu and pneumonia vaccinations either!"
+    },
+    {
+    "intent": "covid_lung_disease_3",
+    "questions": [
+      {
+        "1": "what should i do If i have symptoms of COVID-19,"}
+    ],
+    "answer":"If you have symptoms of COVID-19, it’s important to get tested. There are new treatments available that may reduce your risk of severe illness from COVID-19, but you need to start them quickly. Speak with your doctor about your options."
+    },
+    {
+    "intent": "covid_lung_disease_4",
+    "questions": [
+      {
+        "1": "should i Keep taking your prescribed medications if i have suspected covid "}
+    ],
+    "answer":"Whether you take oral or inhaled medication, it’s important to continue your regimen as prescribed.\nIf you use a  nebulizer  to take your medication at home, it is safe to continue doing so. However, if you have suspected or diagnosed COVID-19, speak with your healthcare provider about additional precautions to take when using your nebulizer."
+    },
+    {
+    "intent": "covid_lung_disease_5",
+    "questions": [
+      {
+        "1": "I have a lung condition; am I at more risk of getting COVID-19 than somebody who does not have a lung condition?"}
+    ],
+    "answer":"No – the infection can be caught by anyone. However, people with underlying lung conditions might be more likely to show symptoms of the infection or to have a more severe infection than others. So far, most people that get COVID-19 have a mild viral illness, but some people develop a chest infection/pneumonia. The severity of COVID-19 infection can be greater if you have an underlying lung condition and so you should make every effort to avoid becoming infected."
+    },
+    {
+    "intent": "covid_lung_disease_6",
+    "questions": [
+      {
+        "1": "Please can you provide detailed information about who is at high risk from a respiratory standpoint?"}
+    ],
+    "answer":"Any severe respiratory condition is likely to place you at higher risk of complications, in particular:\n\nSevere COPD\nSevere asthma (meaning regularly requiring steroids for exacerbations, or taking a biological treatment of long-term corticosteroids)\nBronchiectasis, particularly if you experience frequent chest infections\nCystic fibrosis\nAny other pulmonary condition where you are severely disabled by breathlessness (unable to leave the house due to breathlessness for example) or requiring long-term oxygen treatment\nLung cancer if currently active and being treated with chemotherapy or radiotherapy\nThere are hundreds of different lung conditions and so it is not possible to list them all.\nRemember that being “high risk” means you have a slightly higher risk of complications of COVID-19 infection than other people, but you are still mostly likely, if you contract the virus, to have a mild illness or no symptoms at all.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_7",
+    "questions": [
+      {
+        "1": "Are there any additional measures that I should take to limit my risk of getting sick as I have a lung condition?"}
+    ],
+    "answer":"Follow the advice from your country’s health authorities – this will be slightly different in each country depending on how many cases there are in your country.\n\nThere are things that everyone should do to limit their risk. If you have a lung condition, the following are important. Avoid contact with anyone who is sick. Ask sick friends or relatives not to visit you and keep distance of at least 2 metres from others who are not from your household and particularly anyone that may have symptoms such as cough.\n\nDo not touch your mouth, nose or eyes with unwashed hands unless unavoidable.\n\nWash your hands thoroughly after touching surfaces that may be contaminated. Wash your hands with warm water and soap for 20 seconds. \n\nMake sure you take all of your regular medications and keep up with your usual treatments to keep your lungs as healthy as possible.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_8",
+    "questions": [
+      {
+        "1": "Should I consider self-isolating to avoid catching the virus?"}
+    ],
+    "answer":"Self-isolating means staying indoors as much as possible and avoiding contact with others. The advice on self-isolation is different in different countries at the moment, but the following are sensible steps that apply to all countries in Europe:\n\nIf you have symptoms of fever, cough or a chest infection you should self-isolate and get a COVID-19 test if it is available in your country.\n\nIf you do not have symptoms, avoid contact with anyone who is sick, even if they “just have a mild cold”.\n\nStay at home as much as possible, including working from home if this is feasible.\n\nIf you are in an area with a high number of COVID-19 cases, you may be asked to do a more strict isolation."
+    },
+    {
+    "intent": "covid_lung_disease_9",
+    "questions": [
+      {
+        "1": "SAm I safe outside of the house provided I avoid crowded areas e.g. can I go to the park or walk outside?"}
+    ],
+    "answer":"Yes. The virus is caught from people that have the infection and so there is no problem in going outside by yourself. It is important is to avoid contact with anyone who might be ill. In some countries you may be asked to wear a face covering outside. \n\nThe rules for meeting other people outside or events where a large number of people are together are different around Europe so you should follow the guidance where you live.  In some places the rules get relaxed when COVID-19 cases go down and are tightened again when they begin to increase. You should check what the guidance is before deciding to attend an event or to meet other people outdoors.\n\nIn general, the virus spreads more easily indoors than outdoors and so if you have to meet others for essential reasons, it is better to do this outdoors where possible. "
+    },
+    {
+    "intent": "covid_lung_disease_10",
+    "questions": [
+      {
+        "1": "Are people with respiratory disease more likely to die of COVID-19 than those without?"}
+    ],
+    "answer":"Yes, older age and the presence of underlying conditions – including lung conditions – have been shown to be risk factors for death. Nevertheless, it is important to emphasise that most patients, even those with underlying respiratory disease, have had mild infections and have fully recovered.\n\nAs part of my condition, I regularly have a dry cough and fever – is there a way to distinguish these symptoms with those of COVID-19?\n\nNo. There is nothing unique about the symptoms of COVID-19 and this is why most people who are tested for the virus do not have it. Their cough and fever are actually caused by something else.\n\nIf you have a cough that is typical for you and it has not changed you do not need to do anything differently from normal and do not need to isolate. If your cough changes or you develop new symptoms along with your cough, you should self-isolate and if testing for COVID-19 is available in your country, arrange a COVID-19 test. "
+    },
+    {
+    "intent": "covid_lung_disease_11",
+    "questions": [
+       {
+          "1": "Should I wear a mask to protect myself from the virus?"
+       }
+     ],
+    "answer":"The guidelines for masks or face coverings varies across Europe, you should wear a face covering if this is recommended by your local authority. There is no medical reason that means you cannot wear a face covering if you have a respiratory condition.\nYou may find that it makes it feel a little harder to breathe, if this is the case you can try to adapt to the face coverings slowly at home or try a different material such as a scarf. We have written a document about wearing face coverings and masks that provides a lot more detail about the different types of masks and face coverings which you can read here."
+    },
+    {
+    "intent": "covid_lung_disease_12",
+    "questions": [
+       {
+          "1": "Can I catch COVID-19 from my pet?"
+       }
+     ],
+    "answer":"Cats and dogs have been found to have the virus but there is currently no evidence that humans can catch the disease from common household animals such as cats and dogs.\nAt the moment cats and dogs have not been shown to experience severe symptoms.\n\nMy neighbours often smoke in their garden and the smoke comes into my house if the windows are open. Can COVID-19 be transmitted through exhaled smoke?\nThere is no evidence that COVID-19 can be transmitted through smoke, but passive smoke exposure can still be harmful to people with lung conditions in other ways. It might be worth closing the windows if your neighbours are smoking.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_13",
+    "questions": [
+       {
+          "1": "Can I catch COVID-19 from my pet?"
+       }
+     ],
+    "answer":"Cats and dogs have been found to have the virus but there is currently no evidence that humans can catch the disease from common household animals such as cats and dogs.\nAt the moment cats and dogs have not been shown to experience severe symptoms.\n\nMy neighbours often smoke in their garden and the smoke comes into my house if the windows are open. Can COVID-19 be transmitted through exhaled smoke?\nThere is no evidence that COVID-19 can be transmitted through smoke, but passive smoke exposure can still be harmful to people with lung conditions in other ways. It might be worth closing the windows if your neighbours are smoking.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_14",
+    "questions": [
+       {
+          "1": "the worst affected by COVID-19 are the older age population and ‘people with pre-existing conditions’. What effect does covid have on people with health conditions and young?"
+       }
+     ],
+    "answer":"Most people dying from COVID-19 have been aged over 80 years and have had advanced heart and lung conditions. They have had a combination of older age and severe pre-existing conditions. Most of both older people and people with pre-existing conditions have had a mild viral illness and have fully recovered. Younger people with underlying conditions are more likely to suffer complications than younger people without underlying conditions. That is why it is important to be more cautious if you have underlying health problems, even if you are young."
+    },
+    {
+    "intent": "covid_lung_disease_15",
+    "questions": [
+       {
+          "1": "What is being done to protect the vulnerable population (elderly, people with health conditions)?"
+       }
+     ],
+    "answer":"To protect older people and those with underlying health conditions, most European countries have adopted “social distancing” and self-isolation procedures. This means asking people to stay at home more than usual, practice good hand hygiene and keeping their distance in public to reduce transmission."
+    },
+    {
+    "intent": "covid_lung_disease_16",
+    "questions": [
+       {
+          "1": "Are there any lung conditions that might mean people will have less severe COVID-19??"
+       }
+     ],
+    "answer":"Probably not. There has been some speculation from experts that we have not seen as many patients with asthma, bronchiectasis or cystic fibrosis getting severe COVID-19 as we perhaps expected at the start of the pandemic. This has not, however, been confirmed by subsequent research and so it is likely the risk is the same for all underlying conditions."
+    },
+    {
+    "intent": "covid_lung_disease_17",
+    "questions": [
+       {
+          "1": " I have a lung condition; would I be eligible for government support if I need to stop work?"
+       }
+     ],
+    "answer":"This is not something we can answer as the answer will be different in different countries across Europe. You should discuss with your employer or the appropriate government body for advice."
+    },
+    {
+    "intent": "covid_lung_disease_18",
+    "questions": [
+       {
+          "1": "My partner has to travel by plane for treatment for his condition. What can we do to keep him safe?"
+       }
+     ],
+    "answer":"Travel for people with underlying conditions should be limited as much as possible and restricted to only essential trips. In this case, if the trip is essential, you should follow the steps outlined at the top of this page, including practicing good hand hygiene during every part of the trip. Airlines and airports have introduced extensive new measures to reduce risk when travelling.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_19",
+    "questions": [
+       {
+          "1": "Should I avoid using public transport? / what is the best type of transport to use?"
+       }
+     ],
+    "answer":"For patients with underlying lung conditions, we suggest limiting journeys as much as possible. Public transport, such as bus and train journeys, may be necessary, in which case the best way to reduce the risk of transmission is to wash your hands thoroughly before and after the journey, avoid touching your face, nose and eyes, and try to maintain a distance of more than 2 metres from other passengers if possible.\nPublic transport with the fewest passengers or that limits your contact with potentially sick people is the best, but we recognise that some journeys are unavoidable.\nIn most countries, there is now a recommendation to wear a face covering on public transport.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_20",
+    "questions": [
+       {
+          "1": "Should I avoid using public transport? / what is the best type of transport to use?"
+       }
+     ],
+    "answer":"For patients with underlying lung conditions, we suggest limiting journeys as much as possible. Public transport, such as bus and train journeys, may be necessary, in which case the best way to reduce the risk of transmission is to wash your hands thoroughly before and after the journey, avoid touching your face, nose and eyes, and try to maintain a distance of more than 2 metres from other passengers if possible.\nPublic transport with the fewest passengers or that limits your contact with potentially sick people is the best, but we recognise that some journeys are unavoidable.\nIn most countries, there is now a recommendation to wear a face covering on public transport.\n\n"
+    },
+    {
+    "intent": "covid_lung_disease_21",
+    "questions": [
+       {
+          "1": "My child has a lung condition; what should I be doing to protect them?"
+       }
+     ],
+    "answer":"If they are old enough, ensure they have been taught about how to wash their hands properly and to avoid touching their mouth, nose and eyes with unwashed hands. Consider social distancing measures, such as reducing out of school activities and avoiding events where they will be in contact with a large number of people.\nMost importantly, the disease is generally mild in children, but could cause problems in children if their lung condition is not under good control. Make sure they are taking all of their regular medications, such as preventor inhalers for asthma, to reduce their risk of complications if they do get the infection."
+    },
+    {
+    "intent": "covid_lung_disease_22",
+    "questions": [
+       {
+          "1": "I have children and I have a lung condition; what should I do to ensure that I am still safe?"
+       }
+     ],
+    "answer":"Both you and your children should practice good handwashing with soap and water for 20 seconds regularly through the day and particularly after your child has come home from school (if applicable) and before meals. Both you and your children should avoid contact with anyone who is sick or who has been in contact with people potentially infected with COVID-19."
+    },
+    {
+    "intent": "covid_lung_disease_23",
+    "questions": [
+       {
+          "1": "Can I increase my normal dosage of treatments to protect myself from COVID-19?"
+       }
+     ],
+    "answer":"It is very important not to make any changes to your treatment while the COVID-19 pandemic is ongoing, unless your doctor advises you to. Your treatments help to keep your lungs healthy and any changes to your treatment that have not been recommended by a healthcare professional could put you at higher risk of a flare-up of your lung condition. The health service in many countries is likely to be overwhelmed over the coming months and so keeping everyone as healthy as possible is key to reducing the burden on doctors and hospitals.\nPlease take all of your medications exactly as prescribed."
+    },
+    {
+    "intent": "covid_lung_disease_24",
+    "questions": [
+       {
+          "1": "I have a lung condition and think that I have COVID-19, what steps should I take?"
+       }
+     ],
+    "answer":"You should follow the same advice as for anyone else in your country. In most countries this means that you should self-isolate, meaning you do not go out (isolation periods vary from 10-14 days across Europe) and you should get a test if this is available in your region. The others in your household will also have to isolate until they have completed an isolation period which is often 14 days.\nTake paracetamol for any fever and keep up with the usual treatments for your lung condition. Drink plenty of fluids as the fever can dehydrate you.\nIf the symptoms worsen or are not improving, you can get advice from your healthcare professional. This works differently in different countries."
+    },
+    {
+    "intent": "covid_lung_disease_25",
+    "questions": [
+       {
+          "1": "when should I seek medical attention if I have a pre-existing lung condition?"
+       }
+     ],
+    "answer":"If you think you have COVID-19 infection, ask yourself if you can manage the symptoms at home. Fever can be managed with paracetamol and drinking lots of fluids. If the symptoms are severe or you need additional advice, please contact your primary healthcare provider."
+    },
+    {
+    "intent": "covid_lung_disease_26",
+    "questions": [
+       {
+          "1": "I have a lung condition, I am experiencing symptoms of COVID-19 and I am unable to reach any medical specialists. I have been self-isolating for weeks and I’m scared. What should I do?"
+       }
+     ],
+    "answer":"It is important that you obtain medical help. If your condition has been going on for weeks and not improving, you should seek medical advice."
+    },
+    {
+    "intent": "covid_lung_disease_27",
+    "questions": [
+       {
+          "1": "I have a lung condition, I am experiencing symptoms of COVID-19 and I am unable to reach any medical specialists. I have been self-isolating for weeks and I’m scared. What should I do?"
+       }
+     ],
+    "answer":"It is important that you obtain medical help. If your condition has been going on for weeks and not improving, you should seek medical advice."
+    }
+
+  ],
+  "covid sickle cell disease":
+  [
+    {
+    "intent": "covid_sickle_disease_1",
+    "questions": [
+       {
+          "1": "How do people with sickle cell disease (SCD) do with COVID-19?"
+       }
+     ],
+    "answer":"Patients with SCD often have underlying cardiopulmonary co-morbidities that may predispose them to poor outcomes if they become infected with SARS-CoV-2.\n\nA large study of electronic health record data identified 312 patients with COVID-19 and SCD between January 20, 2020, to September 20, 2020.1 After propensity score matching, patients with COVID-19 and SCD remained at a higher risk of hospitalization (relative risk [RR], 2.0; 95% CI, 1.5-2.7), development of pneumonia (RR, 2.4; 95% CI, 1.6-3.4), and pain (RR, 3.4; 95% CI, 2.5-4.8) compared with Black individuals without SCD. Case fatality rates for SCD patients were not significantly different from those of Black individuals without SCD.\n\nA smaller study from four major metropolitan cities in the United States identified indivduals with SCD with the following risk factors for higher incidence of death from COVID-19: pre-existing cardiopulmonary illness, renal disease, and/or stroke; not receiving hydroxyurea; presenting with high serum creatinine, lactate dehydrogenase, and/or D-dimer levels.2\n\nSCD patients infected with SARS-CoV-2 should be followed very closely, applying a low threshold for admission and frequent outpatient check-ins via telemedicine or in person as appropriate, particularly following hospital discharge."
+    },
+    {
+    "intent": "covid_sickle_disease_2",
+    "questions": [
+       {
+          "1": "Should children or adults with SCD and COVID-19 receive COVID-19 disease-ameliorating therapies?"
+       }
+     ],
+    "answer":"In critically ill SCD patients with hypoxic respiratory failure due to COVID-19, the use of dexamethasone in addition to other routine treatments may limit severe lung injury. Rebound steroid-induced VOC can be managed symptomatically, should it occur.\n\nFor non-critically ill SCD patients with COVID-19 infection, dexamethasone can limit progression to severe disease. Baricitinib with remdesivir may have a role in patients who cannot receive dexamethasone. Monoclonal monoclonal antibody treatments (bamlanivimab and the combination casirivimab/imdevimab) or convalescent plasma under FDA emergency use authorizations may reduce the risk of hospitalization for COVID-19 patients at high risk of complications and mortality, but must be administered within several days of symptom onset, before progression to moderate to severe symptoms or hospitalization for benefit based on trials reported to date. Trials focused specifically on these therapies in SCD patients have not been reported, but consideration of these therapies to limit progression to more serious complications of COVID-19 appear warranted in SCD patients, given their very high risk of severe disease."
+    },
+    {
+    "intent": "covid_sickle_disease_3",
+    "questions": [
+       {
+          "1": "Should I adjust doses of any SCD medications given the COVID-19 threat?"
+       }
+     ],
+    "answer":"If a patient is doing well, there is no reason to change any SCD medications because of the COVID-19 pandemic or actual infection, including recently approved medications such as volexotor and crizanlizumab.\n\nFor patients with symptomatic baseline low hemoglobin levels or patients that are difficult to transfuse because of alloantibodies, voxelotor, a therapy designed to increase the baseline hemoglobin level, can be considered. The decision to begin this agent should be based on the relative benefits versus the risks.\n\nIf COVID-19 rates remain high in your area, to reduce frequency of clinic and pharmacy visits consider telemedicine visits and increasing the supply of medication to 90 days as allowed."
+    },
+    {
+    "intent": "covid_sickle_disease_4",
+    "questions": [
+       {
+          "1": "Should approved COVID-19 vaccines be administered to SCD patients?"
+       }
+     ],
+    "answer":"The Centers for Disease Control and Prevention (CDC) has designated SCD among the medical conditions with high risk for severe COVID-19. The Advisory Committee on Immunization Practice (ACIP) recommends that SCD patients older than age 16 years be vaccinated. The FDA recently extended emergency use authorization for the Pfizer-BioNTech COVID-19 vaccine to include adolescents 12 through 15 years of age. Given the high levels of efficacy for vaccines and the low rates of vaccine-related adverse reactions, hematologists should encourage patients with SCD to receive COVID-19 vaccines. Trials studying vaccine efficacy rates in patients with SCD are ongoing. Based on experience with other vaccines, such as the flu vaccines, patients would be expected to respond to COVID-19 vaccines, but potentially with lower antibody titers and/or a shorter period of protection. Trusted providers can play key roles in overcoming vaccine hesitancy, particularly in vulnerable populations. For more information, see the ASH FAQ on COVID-19 vaccination in immunodeficient hematology patients.\n\nIf vaccination with the ChAdOx1 nCov-19 (AstraZeneca) or Johnson & Johnson vaccine is considered, clinicians should be aware of the potential for development of venous or arterial thrombosis accompanied by thrombocytopenia 4 to 30 days after vaccination."
+    },
+    {
+    "intent": "covid_sickle_disease_5",
+    "questions": [
+       {
+          "1": "How dangerous is COVID-19 for people with sickle cell disease?"
+       }
+     ],
+    "answer":"Because people with sickle cell disease have an increased risk of developing certain infections, we thought at first that it would be very dangerous. We have been pleasantly surprised. COVID-19 may be one of those infections people with sickle cell disease are not more susceptible to. The only places where COVID-19 has been mortally dangerous for sickle cell patients have been in the Northeast and the crowded urban centers. In Richmond to date, maybe one patient with sickle cell disease has died from COVID-19.\n\nI'm also seeing patients come out in good numbers to get the vaccine. There isn’t the hesitancy among sickle cell patients for COVID vaccination the way there is in other parts of the population. Once again, maybe they think that their immune system can't take COVID-19, so they're more likely to come and get vaccinated and protect themselves. We were very pleasantly surprised."
+    },
+    {
+    "intent": "covid_sickle_disease_6",
+    "questions": [
+       {
+          "1": "Is it harder to treat people with sickle cell disease if they get COVID-19?"
+       }
+     ],
+    "answer":"There's a new database that's been gathering every case that people are willing to report called the secure SCD database. What we have seen is that people with sickle cell who get COVID-19 have a tendency to present with pneumonia, which is a common complication of sickle cell disease. We’ve also seen instances of blood clotting and other bleeding complications, but more than likely, it's going to be in the form of pneumonia. Fortunately, we can treat pneumonia. It may complicate the treatment, but you can recover."
+    },
+    {
+    "intent": "covid_sickle_disease_7",
+    "questions": [
+       {
+          "1": "Do all people with sickle cell disease who get COVID-19 require hospitalization?\n"
+       }
+     ],
+    "answer":"Not everyone. If you have only a fever and mild symptoms, you may be able to manage your condition at home. If you have severe pain or respiratory distress, you may need to be hospitalized.\n\n"
+    },
+    {
+    "intent": "covid_sickle_disease_8",
+    "questions": [
+       {
+          "1": "When should I call my doctor?"
+       }
+     ],
+    "answer":"If you think you have a fever, use a thermometer to be sure. If you do have a fever, don’t panic. Lots of different infections can cause a fever. This doesn’t mean you have COVID-19.\n\nIf you’re sure you have a fever, call your doctor right away. Don’t rush to the emergency room (ER), though. Your weakened immune system puts you at greater risk of catching COVID-19 or any other disease someone there may have.\n\n"
+    },
+    {
+    "intent": "covid_sickle_disease_9",
+    "questions": [
+       {
+          "1": "Is it safe for people with sickle cell disease to come to VCU Health for a routine appointment or treatment? What precautions are you taking to keep patients safe?"
+       }
+     ],
+    "answer":"Yes, it’s very safe. We have increased our cleaning and disinfecting measures to make sure our hospitals and clinics are a safe environment for your care. We screen people entering our facilities for symptoms of COVID-19, and we have fewer people in our waiting rooms. Please visit our COVID-19 news center for more information on the measures we’re taking to keep patients, staff and visitors safe."
+    },
+    {
+    "intent": "covid_sickle_disease_10",
+    "questions": [
+       {
+          "1": "As a sickle cell patient, is there anything special I need to do before I come in for my appointment?"
+       }
+     ],
+    "answer":"We ask that you follow standard COVID-19 safety procedures. When you enter the building, be sure to wear your mask, stop at the door for your temperature check, look for the signage in the elevator as to how many people can enter, and wash your hands when you enter the doctor’s office."
+    },
+    {
+    "intent": "covid_sickle_disease_11",
+    "questions": [
+       {
+          "1": "But isn’t there a chance I could get COVID-19 from the vaccine? Is it worth the risk?"
+       }
+     ],
+    "answer":"You can’t get COVID-19 from any of the vaccines. None of the vaccines being used in this country contain the live coronavirus, nor do they contain a weakened or dead version of the coronavirus. The vaccines have no coronavirus to pass on to you.\n\nIt’s definitely worth getting vaccinated. All of the currently authorized vaccines available in the United States are highly effective at preventing COVID-19."
+    },
+    {
+    "intent": "covid_sickle_disease_12",
+    "questions": [
+      {
+        "1": "What about children with sickle cell disease. Should they get the vaccine?"
+      }
+     ],
+    "answer":"Right now, kids 5 and over have been approved for the vaccine. But one day we'll be able to say, yes, all kids can get the vaccine.\n\nIf you are the parent of a child with sickle cell, I can imagine you being nervous — especially about your child going back to school amongst the herd and more exposure to COVID.  My guess is that  your child will be no more likely to have a problem than the other children returning."
+    },
+    {
+    "intent": "covid_sickle_disease_13",
+    "questions": [
+      {
+        "1": "Will the vaccine interact with our meds, posing a health hazard? Should I stop taking my meds before getting the vaccine?\n"
+      }
+     ],
+    "answer":"Whether or not you’re scheduled for the vaccine, continue taking your prescribed medications (Hydroxyurea, glutamine, penicillin, folic acid, Voxelotor, Crizanlizumab, Deferasirox, and any others). These will help keep your body in the best possible condition to fight off infection, should you be exposed to someone with COVID-19. Continue all of your treatments unless your doctor says otherwise.\n\nThis includes your transfusions. There is no evidence that COVID-19 is transmitted through blood. If you’re worried about going in for your transfusions, ask your doctor about the risks of missing them and ask about alternatives."
+    },
+    {
+    "intent": "covid_sickle_disease_14",
+    "questions": [
+      {
+        "1": "What if I’ve already had COVID-19? Do I still need to get the vaccine?"
+      }
+     ],
+    "answer":"We recommend you still get the vaccine. Reinfection is possible. If you've had symptoms of COVID-19 but were never diagnosed, don't assume you had the disease and are immune. Get the vaccine."
+    },
+    {
+    "intent": "covid_sickle_disease_15",
+    "questions": [
+      {
+        "1": "Are the side effects of the vaccine any different for people with sickle cell disease? Is there anything specific to sickle cell disease I should look out for?"
+      }
+     ],
+    "answer":"What people are observing mostly is a good effect. Your body is supposed to react when you introduce a foreign body into it. You're supposed to get a little fever. You're supposed to have a little immune response. That's what people call side effects. My observation is that patients with sickle cell disease have side effects just like everybody else. That's a good thing."
+    }
+
+
+  ],
+  "covid pregnant people":
+  [
+    {
+    "intent": "covid_pregnancy_1",
+    "questions": [
+      {
+        "1": "Can pregnant women receive COVID-19 vaccines?\n"
+      }
+     ],
+    "answer":"Yes. Pregnant women can receive COVID-19 vaccines. COVID-19 vaccines offer strong protection against severe illness from COVID-19. If not already vaccinated, pregnant women should have access to WHO EUL-approved vaccines, because COVID-19 during pregnancy puts them at higher risk of becoming severely ill and of giving birth to preterm babies. Increasing evidence on the safety and effectiveness of COVID-19 vaccination during pregnancy suggests that the benefits of vaccination during pregnancy outweigh potential risks whenever there is ongoing or anticipated community transmission of the virus. COVID-19 vaccination before or during pregnancy is especially important in settings with moderate to high community transmissionb or for women at higher individual risk of exposure or severe illness."
+    },
+    {
+    "intent": "covid_pregnancy_2",
+    "questions": [
+      {
+        "1": "How does COVID-19 affect pregnant women and their babies?"
+      }
+     ],
+    "answer":"Numerous studies indicate that pregnant women with COVID-19 are more likely to develop severe illness compared with nonpregnant women (1, 2). This means that pregnant women with COVID-19 are more likely to require hospitalization, intensive care and invasive ventilation to help with breathing. In addition, compared with pregnant women without COVID-19, pregnant women with COVID-19 have an increased risk of preterm birth and of having babies that need neonatal intensive care. They might also have an increased risk of stillbirth and maternal death (1–3).\nAlthough the greater risk for adverse outcomes from COVID-19 applies to all pregnant women, for some women the risk may be even higher. Pregnant women who are older (aged 35 years and above), are overweight (body mass index >30), or have a health condition such as diabetes or hypertension may be at even higher risk of serious outcomes from COVID-19.\n"
+    },
+    {
+    "intent": "covid_pregnancy_3",
+    "questions": [
+      {
+        "1": "Are COVID-19 vaccines during pregnancy effective?"
+      }
+     ],
+    "answer":"COVID-19 vaccines have been found to be highly effective in preventing severe illness, hospitalization and death from COVID-19. Based on experience with other vaccines used during pregnancy, all of the WHO EUL-approved COVID-19 vaccines are expected to work as well in pregnant women as in nonpregnant people. Initial vaccine effectiveness studies in countries that have already vaccinated large numbers of pregnant women, primarily with mRNA vaccines, have shown high effectiveness in pregnant women, similar to effectiveness in nonpregnant people (4).\nIn addition, studies have shown that pregnant women who get COVID-19 vaccines develop antibodies that are present in babies' umbilical cord blood (5). This suggests that babies may receive protective benefits from the vaccine, in addition to the benefits for pregnant women.\n"
+    },
+    {
+    "intent": "covid_pregnancy_4",
+    "questions": [
+      {
+        "1": "Are COVID-19 vaccines during pregnancy effective?"
+      }
+     ],
+    "answer":"COVID-19 vaccines have been found to be highly effective in preventing severe illness, hospitalization and death from COVID-19. Based on experience with other vaccines used during pregnancy, all of the WHO EUL-approved COVID-19 vaccines are expected to work as well in pregnant women as in nonpregnant people. Initial vaccine effectiveness studies in countries that have already vaccinated large numbers of pregnant women, primarily with mRNA vaccines, have shown high effectiveness in pregnant women, similar to effectiveness in nonpregnant people (4).\nIn addition, studies have shown that pregnant women who get COVID-19 vaccines develop antibodies that are present in babies' umbilical cord blood (5). This suggests that babies may receive protective benefits from the vaccine, in addition to the benefits for pregnant women.\n"
+    },
+    {
+    "intent": "covid_pregnancy_5",
+    "questions": [
+      {
+        "1": "How the vaccines workHow the vaccines work"
+      }
+     ],
+    "answer":"None of the COVID-19 vaccines contain the live virus that causes COVID-19. This means that the vaccines cannot cause infection in either pregnant women or their babies. In addition, for several COVID-19 vaccines, the vaccine components or platforms have been used safely in other vaccines given during pregnancy (12). For example:\n• The viral vectors in the AstraZeneca AZD1222 and Janssen Ad26.COV2.S vaccines have been used in vaccines given to pregnant women in HIV and Ebola vaccine trials and in Ebola vaccine deployment programmes, and no significant safety concerns have been observed.\n• The Sinopharm BIBP and Sinovac–CoronaVac vaccines are inactivated vaccines using an adjuvant that is routinely used in many other vaccines (for example, hepatitis B and tetanus vaccines) with a documented favourable safety profile in pregnant women.\nClinical trials in pregnant women are now underway or planned for several COVID-19 vaccines, and monitoring of women who received vaccines during pregnancy, and their babies, is ongoing.\n"
+    },
+    {
+    "intent": "covid_pregnancy_6",
+    "questions": [
+      {
+        "1": "Can women who are trying to become pregnant receive COVID-19 vaccines?"
+      }
+     ],
+    "answer":"Yes. Getting vaccinated beforehand is an important way for women to protect themselves and their babies from COVID-19 during pregnancy. People who are trying to conceive can receive COVID-19 vaccines. A growing body of evidence has not identified any adverse effects of COVID-19 vaccines on fertility or the ability to become pregnant. In clinical trials of COVID-19 vaccines, and in a large prospective study of couples trying to conceive, rates of becoming pregnant were the same for those receiving COVID-19 vaccines and those not receiving the vaccines (13,14).\nWHO does not recommend delaying pregnancy or terminating pregnancy because of COVID-19 vaccination, and no pregnancy testing is needed prior to vaccination."
+    },
+    {
+    "intent": "covid_pregnancy_7",
+    "questions": [
+      {
+        "1": "Can women who are trying to become pregnant receive COVID-19 vaccines?"
+      }
+     ],
+    "answer":"Pregnant women and those planning to become pregnant should be informed about the risks of COVID-19 during pregnancy, the benefits of vaccination, the available safety data and factors that may make vaccination particularly important:\n• COVID-19 can have severe consequences in pregnancy: Evidence indicates that pregnant women with COVID-19 are at increased risk of severe illness, of giving birth to preterm babies, and potentially of other adverse pregnancy outcomes such as stillbirth.\n• COVID-19 vaccines are highly effective: COVID-19 vaccines provide strong protection against severe illness and deaths from COVID-19. Pregnant women are likely to receive the same level of protection from the vaccines as nonpregnant people.\n• Safety data in pregnancy are increasing and are reassuring: Evidence on the safety of COVID-19 vaccines during pregnancy has been growing. To date, animal studies, monitoring of pregnant women who have received the vaccines, and experience using vaccines with similar components have not identified any pregnancy-specific safety concerns.\n• Some factors make COVID-19 vaccination before or during pregnancy particularly important: The risk of COVID-19 increases in settings with more transmission of the virus. Even in areas with low transmission, certain individuals may still be at high risk of exposure, such as healthcare workers. Pregnant women who are 35 years of age or older, are overweight, or have an underlying health condition may be at even higher risk of serious outcomes if they acquire COVID-19."
+    },
+    {
+    "intent": "covid_pregnancy_8",
+    "questions": [
+      {
+        "1": "Are there concerns about serious side effects from the Johnson & Johnson (Janssen) vaccine during pregnancy?"
+      }
+     ],
+    "answer":"There have been very rare reports of a type of blood clot called cerebral venous sinus thrombosis among patients that have received the Johnson & Johnson vaccine. Though very rare, the risk of certain blood clots appears to be highest in women aged 18–49. After a thorough investigation of these rare events, the FDA and CDC are confident that this vaccine is safe and effective in preventing COVID-19 for all people 18 years of age and over, including pregnant people.\n\nAt this time, although the chance of blood clots occurring as a result of this vaccine is very low, the FDA and CDC have stated that the mRNA vaccines are the preferred vaccine.\n\nIndividuals who have been vaccinated with the Johnson & Johnson vaccine within the last 21 days who experience severe headache, abdominal pain, leg pain, or shortness of breath should seek immediate evaluation."
+    },
+    {
+    "intent": "covid_pregnancy_9",
+    "questions": [
+      {
+        "1": "If I decide to get vaccinated during pregnancy, will this vaccine also protect my baby from COVID-19?"
+      }
+     ],
+    "answer":" Yes! Recent studies on pregnant people who received the COVID-19 vaccine during pregnancy demonstrate that immunity is passed to the baby. This immunity may offer protection against COVID-19 to your baby.\n\n"
+    },
+    {
+    "intent": "covid_pregnancy_10",
+    "questions": [
+      {
+        "1": "I am breastfeeding. Should I get vaccinated?"
+      }
+     ],
+    "answer":"The COVID-19 vaccines are currently being offered to breastfeeding individuals. The COVID-19 vaccines are not believed to be a risk for breastfed infants of mothers who were vaccinated as any vaccine component that makes it into the breast milk is likely to be quickly inactivated when the milk is digested by the baby.\n\nIn addition, recent studies demonstrate that your COVID-19 immunity can pass to the baby through the breast milk after you receive the vaccine. The Academy of Breastfeeding Medicine recommends that all breastfeeding individuals get a COVID-19 vaccine."
+    },
+    {
+    "intent": "covid_pregnancy_11",
+    "questions": [
+      {
+        "1": "If I receive either the Pfizer/Comirnaty or the Moderna vaccine, what if I become pregnant between the first and second doses?"
+      }
+     ],
+    "answer":"The American College of Obstetricians and Gynecologists has convened an expert panel which recommends completing the vaccine course once it is initiated to receive the most effective and timely immunity."
+    },
+    {
+    "intent": "covid_pregnancy_12",
+    "questions": [
+      {
+        "1": "I am planning pregnancy in the near future. Should I get vaccinated now or wait?"
+      }
+     ],
+    "answer":"Yes! This is a great time to get vaccinated. The COVID-19 vaccines are not believed to affect your future fertility. Getting vaccinated before you get pregnant may prevent COVID-19 during pregnancy. It can also avoid the need for vaccination during pregnancy."
+    },
+    {
+    "intent": "covid_pregnancy_13",
+    "questions": [
+      {
+        "1": "Will the vaccine affect menstrual periods?"
+      }
+     ],
+    "answer":"Stress, changes in weight and exercise, and other major lifestyle changes can affect periods. All of those changes are common during the COVID-19 pandemic. Studies have also shown that some women who had COVID-19 experienced changes in the duration and flow of their menstrual cycles.\n\nRecently, some people have reported changes in their period after receiving the COVID-19 vaccine. People have reported changes in duration, flow, and symptoms such as pain. The NIH is funding studies to better understand these changes.\n\nThis does not mean there is any link to miscarriages. There is now data from many women who have been vaccinated which suggests there is not an increased risk of pregnancy loss."
+    },
+    {
+    "intent": "covid_pregnancy_14",
+    "questions": [
+      {
+        "1": "Will getting vaccinated affect my chance of getting pregnant in the future?"
+      }
+     ],
+    "answer":"Studies of mating animals have demonstrated no evidence that COVID vaccines affect fertility. Follow-up data from vaccinated individuals of reproductive age as well as studies on patients before and after vaccination do not show any evidence that the COVID-19 vaccines cause fertility problems (problems trying to get pregnant) in women or men."
+    },
+    {
+    "intent": "covid_pregnancy_15",
+    "questions": [
+      {
+        "1": "If I have completed my primary vaccine series, do I need a booster prior to pregnancy, during pregnancy, or while breast feeding?"
+      }
+     ],
+    "answer":"The CDC recommends that everyone ages 18 years and older receive a booster. The booster dose has been shown to provide stronger protection against severe illness from the COVID variants. This additional immunity will help protect you and your baby."
+    }
+
+  ],
+
+  "covid old people":
+  [
+    {
+    "intent": "covid_old_people_1",
+    "questions": [
+      {
+        "1": "how to stop coronavirus from spreading:"}
+      ],
+    "answer":"stay at home as much as possibles\nlimit contact with other people\nkeep your distance if you do go out (stay two metres apart)\nwash your hands well and often\nwork from home if you can\nDo not leave home if you or anyone in your household has symptoms. If you have symptoms you should book a free test."
+    },
+    {
+      "intent": "covid_old_people_2",
+      "questions": [
+        {
+          "1": "How can I reduce my risk of getting coronavirus?"}
+      ],
+      "answer": "One of the most important things you can do to reduce the risk of infection is to practice social distancing and wash your hands, frequently and thoroughly, with soap and hot water. You should wash your hands more often than you would normally.\n\nYou should wash your hands for at least 20 seconds or for two rounds of the song ‘Happy Birthday’, especially when you get home after going out, before eating or handling food, and after sneezing or blowing your nose.  \n\nYou should also make sure you catch coughs or sneezes with a tissue or your sleeve – not your hands – and put used tissues in the bin. Then wash your hands.\n\nTry to avoid touching your eyes, nose or mouth."
+    },
+    {
+      "intent": "covid_old_people_3",
+      "questions": [
+        {
+          "1": "Older people receiving care"}
+      ],
+      "answer": "If you are worried about your health and social care during COVID-19 the Patient and Client Council offer a Freephone support service, supporting you with any questions, concerns or complaints you may have.\n\nFreephone telephone number: 0800 917 0222\nEmail address: info.pcc@pcc-ni.net\nFor more information about this service visit the Patient Client Council."
+    },
+    {
+      "intent": "covid_old_people_4",
+      "questions": [
+        {
+          "1": "COVID-19 Community Helpline"}
+      ],
+      "answer": "A freephone helpline to help those in vulnerable groups to access information, advice and support in relation to COVID-19 is open 9.00 am to 5.00pm, seven days a week.\n\nThe helpline is local to Northern Ireland, and is managed by Advice NI.\n\nFreephone number: 0808 802 0020\nEmail: covid19@adviceni.net\nText: ACTION to 81025"
+    },
+    {
+      "intent": "covid_old_people_5",
+      "questions": [
+        {
+          "1": "what should i do if i have symptoms or exposure?"}
+      ],
+      "answer": "If you or your loved one learn that you might have been exposed to someone diagnosed with COVID-19 or if anyone in your household develops symptoms such as cough, fever or shortness of breath, call your family doctor, nurse helpline or urgent care facility. \n\n For a medical emergency such as severe shortness of breath or high fever, call 911. "
+    },
+    {
+      "intent": "covid_old_people_6",
+      "questions": [
+        {
+          "1": "How can I manage my health?"}
+      ],
+      "answer": " Older people and those with other health conditions, particularly hypertension, diabetes and heart disease, are more likely to become more seriously ill with COVID-19. It is important that you take care of your general health, including any specific conditions you already have.\nIf you have any existing conditions, it is particularly important to do everything you can to reduce your risk of getting COVID-19, for example, washing your hands, avoiding large gatherings of people, and staying away from anyone who is ill."
+    },
+    {
+      "intent": "covid_old_people_7",
+      "questions": [
+        {
+          "1": "What are the symptoms of COVID-19? How do I know if I am asymptomatic?"}
+      ],
+      "answer": "The most common symptoms include fever, cough, and shortness of breath. Other common symptoms include but are not limited to fatigue, body aches, headache, or poor appetite. If you are concerned that you may be sick and want to get tested, stay home and call your medical provider first.\n\nAsymptomatic means that you do not show any signs or symptoms of being sick. It is possible to have COVID-19 and be asymptomatic. In fact, this is why social distancing is so important, because you may still be able to infect others—and others may still be able to infect you—even if you or they are asymptomatic. If you have been exposed to someone who has tested positive for COVID-19, it is important to quarantine for 14 days even if you do not have any symptoms."
+    },
+    {
+      "intent": "covid_old_people_8",
+      "questions": [
+        {
+          "1": "are old people at high risk of getting COVID-19"}
+      ],
+      "answer": "Those who are most at risk are those who are not socially distancing or who are unable to socially distance. Conditions that put people at risk of having severe illness when they get COVID-19 include heart disease, diabetes, high blood pressure, lung disease, and chronic kidney disease. A higher proportion of hospitalized COVID-19 patients are above 70 years old, however, there are new studies showing that how healthy the individual is matters more than their actual age when it comes to how severe their illness is.\n"
+    },
+    {
+      "intent": "covid_old_people_9",
+      "questions": [
+        {
+          "1": "Does aspirin make COVID-19 worse?"}
+      ],
+      "answer": "Currently, there is no evidence that taking aspirin or ibuprofen can lead to a more severe infection with COVID-19. If you are taking aspirin, it is important to continue taking as directed and to talk with your healthcare provider if you have any further questions. Only your healthcare provider should be making changes to your medications."
+    },
+    {
+      "intent": "covid_old_people_10",
+      "questions": [
+        {
+          "1": "What if I need to go to the hospital for important routine care "}
+      ],
+      "answer": "The best thing to do is to talk with your health care provider about what is the safest and best thing for your specific situation. A lot of routine care appointments have been postponed due to the strain of health care resources for COVID-19 and the risk that it poses to patients to come into the hospital. However, some things cannot be postponed; in which case it is important to take appropriate precautions to protect yourself and others when seeking medical care."
+    },
+    {
+      "intent": "covid_old_people_11",
+      "questions": [
+        {
+          "1": "How do I safely bring groceries, either from the store or delivered, inside?"}
+      ],
+      "answer": "Some people may choose to wipe or wash cans and boxes of food before storing them to reduce possible virus transmission from these products. Set up a cleaning station for unloading groceries, where you can do the following:\n\n· Rinse produce thoroughly, but not with soap.\n\n· Wash reusable bags with disinfectant wipes or soap, or put them into the laundry.\n\n· Disinfect any surfaces that had contact with your groceries or grocery bags/boxes.\n\n· Wash your hands for 20 seconds after handling.\n\n· Avoid touching your face, especially your eyes, nose, and mouth.\n"
+    },
+    {
+      "intent": "covid_old_people_12",
+      "questions": [
+        {
+          "1": "Do my clothes and shoes become contaminated when I go to the grocery store?"}
+      ],
+      "answer": "There have been no documented cases of transmission of coronavirus via clothing and shoes at this point. However, doing laundry is an essential part of doing preventive hygiene measures to help reduce your risk of transmission. Most importantly, wash your hands frequently and disinfect “high contact” surfaces such as door handles, phones, remote controls, light switches, bathroom fixtures, countertops, kitchen tables, or desktops.\n"
+    },
+    {
+      "intent": "covid_old_people_13",
+      "questions": [
+        {
+          "1": "What if I take hydroxychloroquine regularly but cannot get a refill because they are using it for COVID-19?"}
+      ],
+      "answer": "Unfortunately, hydroxychloroquine has been touted as a treatment for COVID-19 despite the lack of scientific evidence. It is an antimalarial drug that is also commonly used to treat a wide range of autoimmune diseases. If you take this medication regularly and are concerned about running out, contact your primary medical provider to discuss your concerns."
+    },
+    {
+      "intent": "covid_old_people_14",
+      "questions": [
+        {
+          "1": "What if I have a low white blood cell count? Is that important?"}
+      ],
+      "answer": "Contact your primary medical provider to discuss any concerns regarding lab work."
+    },
+     {
+      "intent": "covid_old_people_15",
+      "questions": [
+        {
+          "1": "What should I do if I have dental issues and need urgent dental work?"}
+      ],
+      "answer":"Dental settings have unique characteristics that warrant additional infection control. Postpone elective procedures, surgeries, and non-urgent dental visits. For emergency dental work, dental providers must follow the CDC guidelines for providing dental care. Please confirm with your dentist if their facility is able to follow the CDC guidelines."
+     }
   ]
 }
